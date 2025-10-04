@@ -1,5 +1,7 @@
-[299. Bulls and Cows] (https://leetcode.com/problems/bulls-and-cows/submissions/1791047690/)  
-[49. Group Anagrams] ()  
-[451. Sort Characters By Frequency] ()  
-
+[643. Maximum Average Subarray I] ()  
+[209. Minimum Size Subarray Sum] ()  
+[1004. Max Consecutive Ones III] ()  
+[3. Longest Substring Without Repeating Characters] ()  
+[904. Fruit Into Baskets] ()  
+[1052. Grumpy Bookstore Owner] ()  
 
