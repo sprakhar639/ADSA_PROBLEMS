@@ -1,0 +1,13 @@
+[441. Arranging Coins] ()  
+[704. Binary Search] ()  
+https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
+[35. Search Insert Position] ()  
+[34. Find First and Last Position of Element in Sorted Array] ()  
+[33. Search in Rotated Sorted Array] ()  
+[81. Search in Rotated Sorted Array II] ()  
+[153. Find Minimum in Rotated Sorted Array] ()  
+[540. Single Element in a Sorted Array] ()  
+[162. Find Peak Element]  ()  
+[1011. Capacity To Ship Packages Within D Days] ()  
+[875. Koko Eating Bananas] ()  
+[74. Search a 2D Matrix] ()  
