@@ -1,5 +1,5 @@
 [26. Remove Duplicates from Sorted Array] (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-[1. Two Sum] (https://leetcode.com/problems/two-sum/submissions/1791031299/)
+   [1. Two Sum] (https://leetcode.com/problems/two-sum/submissions/1791031299/)
 [15. 3Sum] (https://leetcode.com/problems/3sum/submissions/1791032073/)
 [16. 3Sum Closest] (https://leetcode.com/problems/3sum-closest/submissions/1791040791/)
 [59. Spiral Matrix II] (https://leetcode.com/problems/spiral-matrix-ii/submissions/1791036090/)
